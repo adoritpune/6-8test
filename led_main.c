@@ -9,7 +9,7 @@
 #include <stdlib.h>
 #include <xc.h>
 #include <pic18.h>
-#define _XTAL_FREQ  4000000
+#define _XTAL_FREQ  8000000
 
 #pragma config CONFIG1H=0X08        //internal oscillator selected
 //#pragma config CONFIG2L=0X01        //
